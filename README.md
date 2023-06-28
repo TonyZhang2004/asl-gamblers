@@ -5,9 +5,13 @@ This is a website created by *[Guanyu Zhang](https://github.com/TonyZhang2004)*,
 
 ## Collection of some useful references with brief intro
 
-### Parquet File Format
+### **[TensorFlow Lite](https://www.tensorflow.org/lite)**
 
-<https://towardsdatascience.com/demystifying-the-parquet-file-format-13adb0206705>
+1. The model to be submitted should be a TensorFlow Lite model.
 
-1. The data in this competition is stored with **.parquet** format, which is well-known for **efficient storage** and **fast read speed**.
-2. ***.parquet*** is 50x faster than ***.csv*** when using ***pd.read_csv()***
+### **[Parquet File Format](https://towardsdatascience.com/demystifying-the-parquet-file-format-13adb0206705)**
+
+1. The data in this competition is stored with **".parquet"** format, which is well-known for **efficient storage** and **fast read speed**.
+2. ***".parquet"*** is 50x faster than ***".csv"*** when using ***pd.read_csv()***.
+
+

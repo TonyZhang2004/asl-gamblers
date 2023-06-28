@@ -11,7 +11,11 @@ A competition for those who are new to Kaggle, predicting the survivors on Titan
 
 ### **[TensorFlow Lite](https://www.tensorflow.org/lite)**
 
-1. The model to be submitted should be a TensorFlow Lite model.
+The model to be submitted should be a **TensorFlow Lite** model.
+
+### **[Keras](https://keras.io/)**
+
+APIs for DL with TensorFlow.
 
 ### **[Parquet File Format](https://towardsdatascience.com/demystifying-the-parquet-file-format-13adb0206705)**
 
@@ -20,7 +24,7 @@ A competition for those who are new to Kaggle, predicting the survivors on Titan
 
 ### **[A baseline using LSTM for ASL](https://www.kaggle.com/code/stanptown/lstm-baseline-for-starters-sign-language-eeff0f)**
 
-Using Long Short-Term Memory for this competition, could modify this for improvements.
+Using **Long Short-Term Memory** for this competition, could modify this for improvements.
 
 ### **[MediaPipe Holistic Model](https://github.com/google/mediapipe/blob/master/docs/solutions/holistic.md)**
 

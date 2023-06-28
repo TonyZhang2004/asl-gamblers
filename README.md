@@ -30,4 +30,7 @@ Using **Long Short-Term Memory** for this competition, could modify this for imp
 
 The source of data, could be useful for feature engineering and data preprocessing.
 
+### **[XGBoost](https://xgboost.readthedocs.io/)**
+
+A **gradient-boosting** library which implements lots of ML algorithms.
 

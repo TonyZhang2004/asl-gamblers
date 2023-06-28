@@ -16,6 +16,8 @@ This is a website created by *[Guanyu Zhang](https://github.com/TonyZhang2004)*,
 
 ### **[Getting Started with Kaggle workflow](https://www.kaggle.com/competitions/titanic)**
 
-A competition for those who are new to Kaggle, press the "join competition" and follow the instructions to submit a prediction in ".csv" format
+A competition for those who are new to Kaggle, predicting the survivors on Titanic, just press the "join competition" and follow the instructions to submit a prediction in ".csv" format.
+
+
 
 

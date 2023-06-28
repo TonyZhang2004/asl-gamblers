@@ -14,4 +14,8 @@ This is a website created by *[Guanyu Zhang](https://github.com/TonyZhang2004)*,
 1. The data in this competition is stored with **".parquet"** format, which is well-known for **efficient storage** and **fast read speed**.
 2. ***".parquet"*** is 50x faster than ***".csv"*** when using ***pd.read_csv()***.
 
+### **[Getting Started with Kaggle workflow](https://www.kaggle.com/competitions/titanic)**
+
+A competition for those who are new to Kaggle, press the "join competition" and follow the instructions to submit a prediction in ".csv" format
+
 

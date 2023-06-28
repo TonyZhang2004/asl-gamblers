@@ -34,3 +34,7 @@ The source of data, could be useful for feature engineering and data preprocessi
 
 A **gradient-boosting** library which implements lots of ML algorithms.
 
+### **[LightGBM](https://lightgbm.readthedocs.io/en/stable/)**
+
+A **gradient-boosting** library which implements lots of ML algorithms.
+

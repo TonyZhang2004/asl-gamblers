@@ -22,4 +22,8 @@ A competition for those who are new to Kaggle, predicting the survivors on Titan
 
 Using Long Short-Term Memory for this competition, could modify this for improvements.
 
+### **[MediaPipe Holistic Model](https://github.com/google/mediapipe/blob/master/docs/solutions/holistic.md)**
+
+The source of data, could be useful for feature engineering and data preprocessing.
+
 

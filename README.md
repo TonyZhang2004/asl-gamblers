@@ -22,7 +22,7 @@ APIs for DL with TensorFlow.
 ### **[Parquet File Format](https://towardsdatascience.com/demystifying-the-parquet-file-format-13adb0206705)**
 
 1. The data in this competition is stored with **".parquet"** format, which is well-known for **efficient storage** and **fast read speed**.
-2. ***".parquet"*** is 50x faster than ***".csv"*** when using ***pd.read_csv()***.
+2. ***".parquet"*** is 50x faster when using ***pd.read_parquet()*** than ***".csv"*** when using ***pd.read_csv()***.
 
 ### **[MediaPipe Holistic Model](https://github.com/google/mediapipe/blob/master/docs/solutions/holistic.md)**
 
@@ -40,4 +40,13 @@ A **gradient-boosting** library which implements lots of ML algorithms.
 ### **[LightGBM](https://lightgbm.readthedocs.io/en/stable/)**
 
 A **gradient-boosting** library which implements lots of ML algorithms.
+
+## Brainstorm🧠
+### Guanyu Zhang
+
+1. We gotta measure the difference between two strings in the model (the prediction and the ground truth of train data), so we might wanna use an evaluation metric that can measure this kind of difference (for example, the [Levenshtein Distance](https://en.wikipedia.org/wiki/Levenshtein_distance))
+
+### He Li
+
+### Taiye Chen
 

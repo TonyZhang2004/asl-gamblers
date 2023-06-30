@@ -44,7 +44,7 @@ A **gradient-boosting** library which implements lots of ML algorithms.
 ## Brainstorm🧠
 ### Guanyu Zhang
 
-1. We gotta measure the difference between two strings in the model (the prediction and the ground truth of train data), so we might wanna use an evaluation metric that can measure this kind of difference (for example, the [Levenshtein Distance](https://en.wikipedia.org/wiki/Levenshtein_distance))
+1. We gotta measure the difference between two strings in the model (the prediction and the ground truth of train data), so we might wanna use an evaluation metric that can measure this kind of difference (for example, the [Levenshtein Distance](https://en.wikipedia.org/wiki/Levenshtein_distance)).
 
 ### He Li
 

@@ -57,7 +57,7 @@ Finally, we gotta create an output file in our current directory, and that's our
 ## Brainstorm🧠
 ### Guanyu Zhang
 
-1. We gotta measure the difference between two strings in the model (the prediction and the ground truth of train data), so we might wanna use an evaluation metric that can measure this kind of difference (for example, the [Levenshtein Distance](https://en.wikipedia.org/wiki/Levenshtein_distance)).
+1. We gotta measure the difference between two strings in the model (the prediction and the ground truth of train data), so we might wanna use an evaluation metric that can measure this kind of difference (for example, the [Levenshtein Distance](https://en.wikipedia.org/wiki/Levenshtein_distance), or something like that).
 2. Essentially in this problem, our current prediction is highly related to its last prediction and next prediction, so **context matters**! It follows that we might wanna use some **attention**-based models like **RNN**, **Transformers** etc.
 
 ### He Li

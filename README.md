@@ -41,6 +41,14 @@ A **gradient-boosting** library which implements lots of ML algorithms.
 
 A **gradient-boosting** library which implements lots of ML algorithms.
 
+## Workflow of this ASL competition
+### 1. Preprocess the Data
+
+We gotta preprocess the data first (those **.parquet** files), and this may include file-reads (**Pandas** related, and some plotting library could be useful to data-visualization, such as **matplotlib** and **seaborn**), data-cleaning (fill the NaNs, abandon some outliers, etc.), and convert the parquet files to some convenient formats (such as np.arrays or tensors) for the model to take as inputs.
+
+### 2. Fit a Model
+### 3. Submit the Prediction
+
 ## Brainstorm🧠
 ### Guanyu Zhang
 

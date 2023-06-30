@@ -47,12 +47,18 @@ A **gradient-boosting** library which implements lots of ML algorithms.
 We gotta preprocess the data first (those **.parquet** files), and this may include file-reads (**Pandas** related, and some plotting library could be useful to data-visualization, such as **matplotlib** and **seaborn**), data-cleaning (fill the NaNs, abandon some outliers, etc.), and convert the parquet files to some convenient formats (such as np.arrays or tensors) for the model to take as inputs.
 
 ### 2. Fit a Model
+
+In this step, either we can choose to build a **TensorFlow Lite** model directly, or we can choose another framework such as **PyTorch**, and convert the model to **TensorFlow Lite** model eventually. Also, we gotta choose an appropriate model and fit the parameters, that's another long story...
+
 ### 3. Submit the Prediction
+
+Finally, we gotta create an output file in our current directory, and that's our final submission. Period.
 
 ## Brainstorm🧠
 ### Guanyu Zhang
 
 1. We gotta measure the difference between two strings in the model (the prediction and the ground truth of train data), so we might wanna use an evaluation metric that can measure this kind of difference (for example, the [Levenshtein Distance](https://en.wikipedia.org/wiki/Levenshtein_distance)).
+2. Essentially in this problem, our current prediction is highly related to its last prediction and next prediction, so **context matters**! It follows that we might wanna use some **attention**-based models like **RNN**, **Transformers** etc.
 
 ### He Li
 

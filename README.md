@@ -1,7 +1,7 @@
 # ***asl-gamblers***
 ## About
 
-This is a website created by *[Guanyu Zhang](https://github.com/TonyZhang2004)*, for collaboration with He Li and *[Taiye Chen](https://github.com/yeyutaihan)*, in Kaggle's **[American Sign Language competition](https://www.kaggle.com/competitions/asl-fingerspelling)** held by Google.
+This is a website created by *[Guanyu Zhang](https://github.com/TonyZhang2004)*, for collaboration with *[He Li](https://github.com/lh-50Hz) and *[Taiye Chen](https://github.com/yeyutaihan)*, in Kaggle's **[American Sign Language competition](https://www.kaggle.com/competitions/asl-fingerspelling)** held by Google.
 
 ***NOTE***: Keep checking **Discussion** on the website for newly-asked questions by other competitors.
 

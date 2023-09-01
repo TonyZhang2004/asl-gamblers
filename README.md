@@ -1,5 +1,6 @@
 # ***asl-gamblers***
 ## About
+***UPDATE***: Placed 122nd in the final submission. Please check https://www.kaggle.com/competitions/asl-fingerspelling/discussion/436331
 
 This is a website created by *[Guanyu Zhang](https://github.com/TonyZhang2004)*, for collaboration with *[He Li](https://github.com/lh-50Hz)* and *[Taiye Chen](https://github.com/yeyutaihan)*, in Kaggle's **[American Sign Language competition](https://www.kaggle.com/competitions/asl-fingerspelling)** held by Google.
 
